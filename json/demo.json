@@ -1,0 +1,14 @@
+{
+
+    "myObj": [
+        {
+            "name":"Felix",
+            "lname": "ITs"
+        },
+        {
+            "name":"Amdocs",
+            "lname":"XYZ"
+        }
+    ]
+
+}
